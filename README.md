@@ -1,7 +1,5 @@
 
-Built by https://www.blackbox.ai
 
----
 
 ```markdown
 # Project Name
